@@ -59,11 +59,9 @@ The raw data file is not included in this repository.
 | `report/FreshMart_Project_Report.pdf` | Written project report |
 | `images/` | Dashboard and data model screenshots |
 
-## My role
-[Add 1-2 lines on what you did, for example: "Led the group, cleaned the data in Power Query and helped design the dashboard."]
 
 ## Team
-Women Techsters Fellowship project team: [add teammates' names]
+Women Techsters Fellowship project group 4
 
 ## How to use
 Open the `.pbix` file in Power BI Desktop to explore the dashboard.
